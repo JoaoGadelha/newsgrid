@@ -1,0 +1,57 @@
+.navbar .navbar-container .navbar-logo {
+    margin: 0 auto;
+    margin-left: 20px;
+    width: 80%;
+    margin-top: 10px;
+}
+
+/* .navbar .navbar-container .navbar-logo {
+    margin: 0 auto;
+    margin-left: 20px;
+    width: 80%;
+    margin-top: 10px;
+}
+
+.showcase {
+    height: 550px;
+}
+
+.showcase .showcase-container {
+    display: block;
+    margin: 0 50px;
+    width: 90%;
+}
+
+.picks {
+    margin-bottom:450px;
+}
+
+.picks .picks-container .picks-item.head {
+    display: inline-block;
+    height: 550px;
+    margin: 0 auto;
+}
+
+.picks .picks-container .picks-item,
+.picks .picks-container .picks-item.tail,
+.picks .picks-container .picks-item.red,
+.picks .picks-container .picks-item.black {
+    display: inline-block;
+    height: 550px;
+    margin: 0 auto;
+    margin-top: 50px;
+}
+
+
+.picks .picks-container .picks-item.red,
+.picks .picks-container .picks-item.black {
+    height: 400px;
+    padding-top: 50px;
+}
+
+.footer {
+    margin-top: 100px;
+    height:1000px;
+    text-align:center;
+}
+ */

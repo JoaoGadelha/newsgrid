@@ -1,0 +1,111 @@
+/* Navbar ---------------------------------------*/
+
+.navbar {
+    display: grid;
+    place-items: center;
+    width: 100%;
+    height:10vh;
+}
+
+.navbar .navbar-container {
+    grid-template-columns: 1fr 1fr;
+    text-align: center;
+    width: 100%;
+}
+
+.navbar .navbar-container .navbar-social {
+    display: none;
+}
+
+.navbar .navbar-container .navbar-logo {
+    margin: 0 auto;
+    margin-left: 20%;
+}
+
+/* Showcase ---------------------------------------*/
+.showcase {
+    height:90vh;
+}
+
+.showcase .showcase-container {
+    display: block;
+    margin: 0 auto;
+    width: 80%;
+}
+
+.showcase .showcase-container a {
+    display: block;
+    width: 140px;
+    height: 50px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+/* Picks ---------------------------------------*/
+
+.picks {
+    height: auto;
+}
+
+.picks .picks-container {
+    display:grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.picks .picks-container .picks-item.black {
+    grid-column:span 2;
+} 
+
+.picks .picks-container .picks-item.red {
+    height:100%;
+}
+
+.picks .picks-container .picks-item.head div, .picks .picks-container .picks-item.tail div {
+width:100%;
+}
+
+.picks .picks-container .picks-item.head div .category, .picks .picks-container .picks-item.tail div .category {
+    display:inline-block;
+    width:auto;
+}
+
+.picks .picks-container .picks-item img {
+    height:auto;
+    width:70%;
+}
+
+/* Footer ---------------------------------------*/
+
+.footer .footer-container {
+    width:80%;
+    margin:0 auto;
+}
+/* 
+.footer {
+    text-align: center;
+}
+
+.footer .footer-container {
+    display: block;
+    margin: 0 20px;
+}
+
+.footer .footer-container h2 {
+    margin-top: 20px;
+}
+
+
+.footer .footer-container .grid-item .footer-logo {
+    width: 50%;
+
+} */
+
+/* Navbar ---------------------------------------*/
+
+/* Navbar ---------------------------------------*/
+
+/* Navbar ---------------------------------------*/
+
+/* Navbar ---------------------------------------*/
+
+/* Navbar ---------------------------------------*/
