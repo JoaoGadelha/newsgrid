@@ -54,6 +54,7 @@
 
 .picks .picks-container .picks-item.black {
     grid-column:span 2;
+    font-size: 10px;
 } 
 
 .picks .picks-container .picks-item.red {
@@ -74,12 +75,34 @@ width:100%;
     width:70%;
 }
 
+.about .about-container {
+    display: block;
+    font-size: 10px;
+}
 /* Footer ---------------------------------------*/
 
 .footer .footer-container {
     width:80%;
     margin:0 auto;
+    display: block;
+    text-align: center;
+    font-size: 10px;
+    
 }
+
+.footer .footer-container * {
+    margin: 0;
+    margin: 0 auto;
+    margin-bottom: 10px;
+}
+
+
+.footer .footer-container .grid-item .footer-logo {
+    text-align: center;
+    margin: 0 auto;
+    width: 200px;
+}
+
 /* 
 .footer {
     text-align: center;
